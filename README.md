@@ -1,6 +1,6 @@
 ### 🗂️ CTF Writeups
 
-Documenting how I solved each lab and challenge — every entry below links to my full PDF writeup and the original challenge page.
+Documenting how I solved each lab and challenge - every entry below links to my full PDF writeup and the original challenge page.
 
 **How to use this repo:** jump to a platform in the table of contents, find the challenge in its table, then open the writeup PDF or the challenge link directly.
 
