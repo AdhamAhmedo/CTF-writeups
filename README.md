@@ -22,7 +22,7 @@ Documenting how I solved each lab and challenge - every entry below links to my 
 
 | Challenge | Type | Difficulty | Writeup | Challenge Link |
 |---|---|---|---|---|
-| SOC325 - Unauthorized Cloud Region Access Attempt Detected| Web Attack | 🟢 Easy | [PDF](https://github.com/AdhamAhmedo/CTF-writeups/blob/main/Writeups/LetsDefend/SOC325%20%E2%80%93%20Unauthorized%20Cloud%20Region%20Access%20Attempt%20Detected.pdf) | [LetsDefend](https://app.letsdefend.io/monitoring) |
+| SOC325 - Unauthorized Cloud Region Access Attempt Detected| Web | 🟢 Easy | [PDF](https://github.com/AdhamAhmedo/CTF-writeups/blob/main/Writeups/LetsDefend/SOC325%20%E2%80%93%20Unauthorized%20Cloud%20Region%20Access%20Attempt%20Detected.pdf) | [LetsDefend](https://app.letsdefend.io/monitoring) |
 
 ---
 
@@ -32,7 +32,7 @@ Documenting how I solved each lab and challenge - every entry below links to my 
 
 | Challenge | Type | Difficulty | Writeup | Challenge Link |
 |---|---|---|---|---|
-| _Example Room_ | Web — SQLi | 🟢 Easy | [PDF]() | [TryHackMe]() |
+| Neighbour Room | Web | 🟢 Easy | [PDF](https://github.com/AdhamAhmedo/CTF-writeups/blob/main/Writeups/TryHackMe/TryHackMe%20%E2%80%93%20Neighbour%20Room%20Write-up.pdf) | [Neighbour](https://tryhackme.com/room/neighbour) |
 
 ---
 
